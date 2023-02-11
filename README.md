@@ -12,6 +12,8 @@ An open source motor controller firmware.
 
 This is the source code for the VESC DC/BLDC/FOC controller. Read more at
 [https://vesc-project.com/](https://vesc-project.com/)
+and at 
+[http://vedder.se/2015/01/vesc-open-source-esc/](http://vedder.se/2015/01/vesc-open-source-esc/)
 
 ## Supported boards
 
